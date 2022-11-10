@@ -1,14 +1,10 @@
 {
   "projects": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
+      "id": 1,
+      "title": "HTML/CSS Tehtävä",
       "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "web": "https://webohjelmointi.tomijaara.dev/htmlcss/index.html"
     },
     {
       "id": 456,

@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "title": "HTML/CSS Tehtävä",
+      "title": "HTML/CSS Tehtävä 1",
       "description": "HTML ja CSS harjoitustehtävä.",
       "web": "https://webohjelmointi.tomijaara.dev/htmlcss/index.html"
     },

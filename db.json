@@ -24,6 +24,12 @@
       "title": "Javascript Tehtävä 3",
       "description": "Luokkamäärittely ja periytyminen JavaScript-kielellä.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/urheilu1"
+    },
+    {
+      "id": 5,
+      "title": "Javascript Tehtävä 4 a ja b",
+      "description": "Sanakirja, joka hyödyntää REST APIa. Tehtävän b osiossa on toimiva käyttöliittymä.",
+      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/urheilu1"
     }
   ]
 }

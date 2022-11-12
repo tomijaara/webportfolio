@@ -4,14 +4,14 @@
       "id": 1,
       "title": "HTML/CSS Tehtävä 1",
       "description": "HTML ja CSS harjoitustehtävä.",
-      "git": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/portfolio",
+      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/portfolio",
       "web": "https://webohjelmointi.tomijaara.dev/htmlcss/index.html"
     },
     {
       "id": 2,
       "title": "Javascript Tehtävä 1",
       "description": "Ohjelma tarkistaa onko annettu sana palindromi.",
-      "git": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava1"
+      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava1"
     },
     {
       "id": 789,

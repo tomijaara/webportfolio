@@ -18,6 +18,12 @@
       "title": "Javascript Tehtävä 2",
       "description": "Ohjelma toimii alkeellisena puhelinluettelona.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava2"
+    },
+    {
+      "id": 4,
+      "title": "Javascript Tehtävä 3",
+      "description": "Luokkamäärittely ja periytyminen JavaScript-kielellä.",
+      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/urheilu1"
     }
   ]
 }

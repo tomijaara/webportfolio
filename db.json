@@ -30,6 +30,24 @@
       "title": "Javascript Tehtävä 4 a ja b",
       "description": "Sanakirja, joka hyödyntää REST APIa. Tehtävän b osiossa on toimiva käyttöliittymä.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava4"
+    },
+    {
+      "id": 6,
+      "title": "Javascript Tehtävä 5",
+      "description": "REST API:n perustuva puhelinluettelo, joka hyödyntää tietokantaa.",
+      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava5"
+    },
+    {
+      "id": 7,
+      "title": "Javascript Tehtävä 6",
+      "description": "REST API:n perustuva urheilija luettelo. Sovelluksella on React pohjainen käyttöliittymä.",
+      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava5"
+    },
+    {
+      "id": 7,
+      "title": "Portfolio tehtävä",
+      "description": "Portfolion omainen esittely kurssilla tehdyistätehtävistä.",
+      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/portfolio"
     }
   ]
 }

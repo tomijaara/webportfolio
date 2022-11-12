@@ -7,14 +7,10 @@
       "web": "https://webohjelmointi.tomijaara.dev/htmlcss/index.html"
     },
     {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "web": "https://webohjelmointi.tomijaara.dev/htmlcss/index.html"
+      "id": 2,
+      "title": "Javascript Tehtävä 1",
+      "description": "Ohjelma tarkistaa onko annettu sana palindromi.",
+      "web": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava1"
     },
     {
       "id": 789,

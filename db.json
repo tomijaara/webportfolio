@@ -41,12 +41,12 @@
       "id": 7,
       "title": "Javascript Tehtävä 6",
       "description": "REST API:n perustuva urheilija luettelo. Sovelluksella on React pohjainen käyttöliittymä.",
-      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava5"
+      "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava6"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Portfolio tehtävä",
-      "description": "Portfolion omainen esittely kurssilla tehdyistätehtävistä.",
+      "description": "Portfolion omainen esittely kurssilla tehdyistä tehtävistä.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/portfolio"
     }
   ]

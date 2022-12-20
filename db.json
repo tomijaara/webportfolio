@@ -4,6 +4,7 @@
       "id": 1,
       "title": "HTML/CSS Tehtävä 1",
       "description": "HTML ja CSS harjoitustehtävä.",
+      "story": "Tehtävän tarkoituksena oli tutustua yksinkertaisen html/css sivun tekemiseen. Tätä tehtävää olisi voinut hyödyntää portfolion pohjana."
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/html-ja-css/tehtava1",
       "web": "https://webohjelmointi.tomijaara.dev/htmlcss/index.html"
     },

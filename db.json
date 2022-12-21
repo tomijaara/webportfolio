@@ -12,43 +12,49 @@
       "id": 2,
       "title": "Javascript Tehtävä 1",
       "description": "Ohjelma tarkistaa onko annettu sana palindromi.",
-      "story": "Tehtävän tarkoituksena oli tutustua javascriptiin tekemällä ohjelma joka tarkistaa onko sana palindromi ja ajamalla se konsolissa. Tein tehtävästä kaksi versiota, joista toinen kysyy käyttäjältä sanan syötteenä ja toinen käy läpi taulukon, joka sisältää sanoja.",
+      "story": "Tehtävän tarkoituksena oli tutustua Javascriptiin tekemällä ohjelma joka tarkistaa onko sana palindromi ja ajamalla se konsolissa. Tein tehtävästä kaksi versiota, joista toinen kysyy käyttäjältä sanan syötteenä ja toinen käy läpi taulukon, joka sisältää sanoja.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava1"
     },
     {
       "id": 3,
       "title": "Javascript Tehtävä 2",
       "description": "Ohjelma toimii alkeellisena puhelinluettelona.",
+      "story": "Tehtävässä toteutettiin alkeellinen puhelinluettelo, joka toimi konsolissa. Ohjelmassa olis seuraavat toiminnot: nimen perusteella hakeminen, yhteystiedon lisääminen, yhteystiedon poistaminen ja koko puhelinluettelon sisällön näyttäminen.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava2"
     },
     {
       "id": 4,
       "title": "Javascript Tehtävä 3",
       "description": "Luokkamäärittely ja periytyminen JavaScript-kielellä.",
+      "story": "Tämä oli yksinkertainen tehtävä, jossa harjoiteltiin Javascriptin luokkamäärittelyä ja periytymistä.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/urheilu1"
     },
     {
       "id": 5,
       "title": "Javascript Tehtävä 4 a ja b",
       "description": "Sanakirja, joka hyödyntää REST APIa. Tehtävän b osiossa on toimiva käyttöliittymä.",
+      "story": "Tämän tehtävän a-osassa harjoiteltiin REST API:n POST, GET ja ADD käyttämistä esimerkiksi Postman ohjelman avulla. B-osassa sovellukselle tehtiin toimiva käyttöliittymä.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava4"
     },
     {
       "id": 6,
       "title": "Javascript Tehtävä 5",
       "description": "REST API:n perustuva puhelinluettelo, joka hyödyntää tietokantaa.",
+      "story": "Tässä tehtävässä toteutettiin REST API:n avulla puhelinluettelo joka hyödyntää MySQL-tietokantaa. Sovelluksen toimintaa pystyi testaamaan esimerkiksi Postman ohjelmalla.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava5"
     },
     {
       "id": 7,
       "title": "Javascript Tehtävä 6",
       "description": "REST API:n perustuva urheilija luettelo. Sovelluksella on React pohjainen käyttöliittymä.",
+      "story": "Tässä tehtävässä toteutettiin pienimuotoinen Fullstack tyyppinen web-sovellus. Backend hyödyntää REST API:a, jolla urheilijoiden tietokannat tallennetaan MySQL-tietokantaan. Käyttöliittymä huolehtii tietojen esittämisestä ja lisäys toiminna visualisoinnista.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/javascript/tehtava6"
     },
     {
       "id": 8,
       "title": "Portfolio tehtävä",
       "description": "Portfolion omainen esittely kurssilla tehdyistä tehtävistä.",
+      "story": "Tässä tehtävässä piti tehdä portfolion omainen esittely kurssilla suoritetuista tehtävistä. Itse valitsin toteutustavaksi Vue.js:n, koska olen jo pitkään halunnut tutustua Vue:een.",
       "gitlab": "https://gitlab.com/tomi.jaara/web-ohjelmointi/-/tree/main/portfolio"
     }
   ]
